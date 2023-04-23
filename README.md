@@ -34,7 +34,7 @@ This app is designed to give users a randomly generated password based on user i
 Users can select length and type of characters to use and will receive a randomly generated password based on those selection. 
 
 ## Images
-[](./assets/Password_screenshot.png)
+![image](./assets/Password_screenshot.png)
 
 ## Deployement
 [Password Generator](https://jbungurait.github.io/Password_Generator/)
